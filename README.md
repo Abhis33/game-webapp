@@ -1,3 +1,7 @@
+# Current Progress - Screenshots
+
+![image](https://github.com/user-attachments/assets/74c0fa22-7abc-429c-b714-a8b0dec38f9e)
+
 # recruiting-webapp-character
 React coding test
 
